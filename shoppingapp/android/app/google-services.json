@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389902582248",
+    "project_id": "tuan-shopping-app",
+    "storage_bucket": "tuan-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389902582248:android:d7364bce244d32e823a45d",
+        "android_client_info": {
+          "package_name": "com.tuannguyendev.tuanshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389902582248-eq21rtqf8e9etveepgi7g24lq82ejs4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuannguyendev.tuanshopping",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "389902582248-68jqgcomgjmka5in94b15j0ef03t4l5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4D7WPtGBaxiZymHU82sgerE6UophQ6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389902582248-68jqgcomgjmka5in94b15j0ef03t4l5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

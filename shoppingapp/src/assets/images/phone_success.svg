@@ -1,0 +1,14 @@
+<svg width="244" height="362" viewBox="0 0 244 362" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mobile Phone Outline -->
+  <rect x="32" y="32" width="180" height="298" rx="30" ry="30" stroke="#6b8a8d" stroke-width="8" fill="none"/>
+  <!-- Top Speaker -->
+  <rect x="92" y="52" width="60" height="10" rx="5" ry="5" fill="#6b8a8d"/>
+  <!-- Front Camera -->
+  <circle cx="170" cy="57" r="5" fill="#6b8a8d"/>
+  <!-- Bottom Button -->
+  <rect x="112" y="292" width="20" height="10" rx="5" ry="5" fill="#6b8a8d"/>
+  <!-- Checkmark Circle -->
+  <circle cx="184" cy="210" r="40" fill="#6b8a8d"/>
+  <!-- Checkmark -->
+  <path d="M172 210 l12 12 l24 -24" stroke="white" stroke-width="8" fill="none"/>
+</svg>
